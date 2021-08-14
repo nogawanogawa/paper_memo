@@ -1,0 +1,18 @@
+---
+name: paper introduction
+about: for paper intruduction
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+## 論文URL
+
+## 著者
+
+## 背景
+
+## 目的
+
+## アプローチ
