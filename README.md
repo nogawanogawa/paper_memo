@@ -1,6 +1,6 @@
 # 論文メモ
 
-## [Paper Summaries](https://github.com/nogawanogawa/paper_memo/issues)
+## [Paper Summaries](https://github.com/nogawanogawa/paper_memo/issues?q=is%3Aissue)
 
 論文のまとめをIssueで管理していきます。
 内容の正確性は保証しませんのでご容赦ください。
