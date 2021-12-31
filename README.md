@@ -11,8 +11,7 @@
 
 ## 興味ある論文がリストアップされているとき
 
-issueがOpenされていて興味ある論文があるとき、
-[Twitter](https://twitter.com/nogawanogawa)で声かけてもらえば直接紹介できるかもしれない…
+[Twitter](https://twitter.com/nogawanogawa)で声かけてもらえば、会話できるかもしれない？
 
 ## 自分内ルール
 1. 日本人の論文も読みますが、ここで書くだけでどこかで話したりはしない
