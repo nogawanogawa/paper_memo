@@ -2,7 +2,7 @@
 name: paper introduction
 about: for paper intruduction
 title: ''
-labels: ''
+labels: 'recommender'
 assignees: ''
 
 ---
@@ -18,3 +18,5 @@ assignees: ''
 ## 目的
 
 ## アプローチ
+
+## ひとことメモ
